@@ -24,6 +24,7 @@
     <ProjectGuid>{62151294-b5b9-49e6-b8b2-423e4577e001}</ProjectGuid>
     <RootNamespace>LearnC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Operadores Aritméticos</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
